@@ -82,3 +82,5 @@
     width: 32.33%;
     height: 20%;
 }
+
+@media screen and (max-width:480px) {}
